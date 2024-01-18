@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\obj\Debug\Part 1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\obj\Debug\Part 1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\bin\Debug\Part 1.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\bin\Debug\Part 1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\bin\Debug\Part 1.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\bin\Debug\EZInput.dll
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\bin\Debug\EZInput.xml
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\obj\Debug\Part 1.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\obj\Debug\Part 1.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\GAME PROJECT 1\Part 1\Part 1\obj\Debug\Part 1.pdb

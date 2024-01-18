@@ -1,0 +1,9 @@
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\bin\Debug\games.exe.config
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\bin\Debug\games.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\bin\Debug\games.pdb
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.exe
+C:\Users\hp\OneDrive\Documents\semester2\oop(lab)\games\games\obj\Debug\games.pdb
